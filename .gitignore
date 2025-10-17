@@ -1,0 +1,9 @@
+# Ignore secrets and system files
+.ssh/
+*.pem
+*.key
+*.pub
+.DS_Store
+*.log
+node_modules/
+__pycache__/
